@@ -3,7 +3,7 @@ This is my first Git repository with HTML, CSS, and JavaScript project. It conce
 <br>
 <br>
 <br>
-<img src="/S-C-A-R.png" style="border: 1px solid black; border-radius: 5px;">
+<img src="/S-C-A-R.png" style="border: 10px solid black; border-radius: 5px;">
 <br>
 <br>
 <br>
