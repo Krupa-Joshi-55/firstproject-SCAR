@@ -7,4 +7,5 @@ This is my first Git repository with HTML, CSS, and JavaScript project. It conce
 <br>
 <br>
 <br>
+This event occurs after clicking on the button with pets' names which shows a card with their details.
 <img src="S-C-A-R-1.png" >
